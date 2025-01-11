@@ -1,0 +1,17 @@
+Localization,Українська
+
+#None,None
+
+#InformationDeploymentCost,Вартiсть розмiщення  
+#InformationHealth,Здоров'я  
+#InformationDamage,Шкода  
+#InformationAttackSpeed,Швидкiсть атаки  
+#InformationMovementSpeed,Швидкiсть пересування  
+#InformationCriticalHitChance,Шанс критичного удару  
+#InformationConceptionRate,Шанс зачаття  
+#InformationBirthCount,Кiлькiсть народжень  
+#InformationSexTime,Час статевого акту  
+#InformationCriticalHitMultiplier,Множник критичного удару  
+#InformationKnockBackResistance,Стiйкiсть до вiдкидання  
+#InformationFetalGrowthTime,Час росту плоду  
+

@@ -1,0 +1,101 @@
+Localization,Українська
+
+#Test,Тест
+
+#PLAY,ГРАТИ  
+#SAVE,ЗБЕРЕГТИ  
+#LOAD,ЗАВАНТАЖИТИ  
+#FOLDER,КОПiЮВАТИ ПАПКУ В БУФЕР ОБМiНУ  
+#DELETE,ВИДАЛИТИ  
+#SETTINGS,НАЛАШТУВАННЯ  
+#TUTORIAL,НАВЧАННЯ  
+#TOTITLE,ДО ГОЛОВНОГО МЕНЮ  
+#RETURN,ПОВЕРНУТИСЯ  
+#QUIT,ВИЙТИ  
+#CREDITS,АВТОРИ  
+
+#BUILD,БУДУВАТИ  
+
+#Notification001,Немає мiсця.  
+#Notification002,Не можна розмiстити.  
+#Notification003,Немає очок дiї.  
+#Notification004,Вже створено.  
+#Notification005,Не можна створити.  
+#Notification006,Недостатньо лiдерства.  
+#Notification007,Немає лiдера загону.  
+#Notification008,Немає очок розмiщення.  
+#Notification009,{0} Юнiт вiдступив з поля бою через брак їжi.  
+
+#Settings0,Мова  
+#Settings1,Режим дисплея  
+#Settings2,Роздiльна здатнiсть  
+#Settings3,Звук  
+#Settings4,Гарячi клавiшi 
+#Settings5,Iнтерфейс  
+
+#Fullscreen,Повний екран  
+#Windowed,У вiкнi  
+#ScreenMoveSpeed,Швидкiсть перемiщення екрана  
+#MasterVolume,Загальна гучнiсть  
+#BackgroundVolume,Гучнiсть фону  
+#EffectsVolume,Гучнiсть ефектiв  
+#VoiceVolume,Гучнiсть голосу  
+
+#Hotkey0,Вгору  
+#Hotkey1,Лiворуч  
+#Hotkey2,Вниз  
+#Hotkey3,Праворуч  
+#Hotkey4,Прискорення  
+#Hotkey5,Показати рентген  
+#Hotkey6,Показати грудне молоко  
+#Hotkey7,Перезавантажити мову  
+
+#Round,{0}  
+#PlayerName,{0}  
+#Next,НАСТУПНИЙ  
+
+#Village,Село  
+#Goblin,Гоблiн  
+
+#LevelValue,{0}  
+#ActionPointValue,{0}  
+
+#Attack,Атака  
+#MaxHealth,Максимальне здоров'я  
+#Leadership,Лiдерство  
+#FoodConsumption,Споживання їжi  
+#GrowthTime,Час росту  
+
+#Reward,НАГОРОДА  
+
+#PAGE,СТОРiНКА {0} / {1}  
+
+#0,{0}  
+#0%,{0}%  
+#0/1,{0}/{1}  
+#0~1,{0}~{1}  
+
+#DEPLOY,РОЗМiСТИТИ  
+#PartyNumber,{0} Юнiт  
+
+#ListAttack,Атака<BR>{0}  
+#ListMaxHealth,Макс. здоров'я<BR>{0}  
+#ListLeadership,Лiдерство<BR>{0}  
+#ListFoodConsumption,Споживання їжi<BR>{0}  
+#ListGrowthTime,Час росту<BR>{0}  
+#ListConceptionRate,Шанс зачаття<BR>{0}%  
+
+#oAttack,Атака  
+#oHealth,Здоров'я  
+#oMaxHealth,Максимальне здоров'я  
+#oLeadership,Лiдерство  
+#oFoodConsumption,Споживання<BR>їжi  
+#oGrowthTime,Час росту  
+
+#oConceptionRate,Шанс<BR>зачаття  
+#oBirthCount,Кiлькiсть народжень  
+#oMaxBirthCount,Максимальна кiлькiсть народжень  
+#oGrowthExp,Досвiд росту  
+#oFetalStage,Стадiя плоду  
+
+

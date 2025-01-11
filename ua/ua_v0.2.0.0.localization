@@ -1,0 +1,49 @@
+Localization,Українська
+
+#Notification011,Дозволена тiльки версiя {0} або вище.  
+#Notification012,Недостатньо матерiалу.  
+#Notification013,Перезавантаження мови.  
+#Notification014,Мову успiшно перезавантажено.  
+
+#Settings4-1,НАТИСНiТЬ КЛАВiШУ  
+#NEW,НОВИЙ  
+
+#Settings6,Графiка  
+#Settings6-1,Потрiбне перезавантаження  
+#TextureMipmap,Mipmap  
+#TextureMipmapText,Покращує продуктивнiсть. Може спричиняти смуги на зображеннях.  
+#TextureCompression,Стиснення текстур  
+#TextureCompressionText,Зберiгає пам'ять. Якiсть зображення може знизитися.  
+#ON,УВiМК.  
+#OFF,ВИМК.  
+
+#DeploymentCost,Вартiсть розмiщення  
+#Health,Здоров'я  
+#Damage,Шкода  
+#AttackSpeed,Швидкiсть атаки  
+#MovementSpeed,Швидкiсть пересування  
+#CriticalHitChance,Шанс критичного удару  
+#ConceptionRate,Шанс зачаття  
+#BirthCount,Кiлькiсть народжень  
+#SexTime,Час статевого акту  
+
+#Gold,Золото  
+#Material,Матерiал  
+#Energy,Енергiя  
+#Monster,Монстр  
+#Slave,Раб  
+
+#MonsterList,Список монстрiв  
+#SlaveList,Список рабiв  
+#BabyList,Список немовлят  
+#BuildingList,Список будiвель  
+
+#BreedingRoom,Кiмната розведення  
+#LactationRoom,Кiмната лактацiї  
+
+#Goblin0,Гоблiн  
+#Goblin1,Гоблiн  
+#Woman0,Жiнка  
+#Woman1,Жiнка  
+
+

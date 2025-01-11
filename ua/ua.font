@@ -1,0 +1,26 @@
+[
+	{
+		"Localization": "Ukrainian",
+		"Name": "Segoe UI",
+		"Style": "Bold",
+		"Scale": 1,
+		"Type": [
+			{
+				"Dilate": 0,
+				"OutlineWidth": 0,
+			},
+			{
+				"Dilate": 0.6,
+				"OutlineWidth": 0.8,
+				"OutlineColor": {"r":0,"g":0,"b":0,"a":1},
+				"LineSpacing": -10,
+			},
+			{
+				"Dilate": 0.6,
+				"OutlineWidth": 0.8,
+				"OutlineColor": {"r":1,"g":1,"b":1,"a":1},
+				"LineSpacing": -10,
+			},
+		],
+	},
+]

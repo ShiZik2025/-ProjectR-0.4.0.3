@@ -1,0 +1,109 @@
+Localization,Українська
+
+#CriticalHitMultiplier,Множник критичного удару  
+#KnockBackResistance,Стiйкiсть до вiдкидання  
+#FetalGrowthTime,Час росту плоду  
+
+#TraitPositiveTextFetalGrowthTime,Зменшує час росту плоду на -{0} с. (мiнiмум 15 с)  
+#TraitNegativeTextFetalGrowthTime,Збiльшує час росту плоду на +{0} с.  
+#TraitPositiveTextDeploymentCost,Зменшує вартiсть розмiщення на -{0}. (мiнiмум 1)  
+#TraitNegativeTextDeploymentCost,Збiльшує вартiсть розмiщення на +{0}.  
+#TraitPositiveTextHealth,Збiльшує здоров'я на +{0}.  
+#TraitNegativeTextHealth,Зменшує здоров'я на -{0}. (мiнiмум 1)  
+#TraitPositiveTextDamage,Збiльшує шкоду на +{0}.  
+#TraitNegativeTextDamage,Зменшує шкоду на -{0}. (мiнiмум 1)  
+#TraitPositiveTextCriticalHitMultiplier,Збiльшує множник критичного удару на +{0}%.  
+#TraitNegativeTextCriticalHitMultiplier,Зменшує множник критичного удару на -{0}%. (мiнiмум 100%)  
+#TraitPositiveTextCriticalHitChance,Збiльшує шанс критичного удару на +{0}%. (максимум 75%)  
+#TraitNegativeTextCriticalHitChance,Зменшує шанс критичного удару на -{0}%. (мiнiмум 1%)  
+#TraitPositiveTextKnockBackResistance,Збiльшує стiйкiсть до вiдкидання на +{0}%.  
+#TraitNegativeTextKnockBackResistance,Зменшує стiйкiсть до вiдкидання на -{0}%. (мiнiмум 1%)  
+#TraitPositiveTextConceptionRate,Збiльшує шанс зачаття на +{0}%. (максимум 100%)  
+#TraitNegativeTextConceptionRate,Зменшує шанс зачаття на -{0}%. (мiнiмум 1%)  
+#TraitPositiveTextSexTime,Зменшує час статевого акту на -{0} с. (мiнiмум 5 с)  
+#TraitNegativeTextSexTime,Збiльшує час статевого акту на +{0} с.  
+
+#Shortstack,Маленький  
+#Player,Гравець  
+#Sister,Сестра  
+
+#Party,Загiн  
+
+#Tutorial_Party_Title,Загiн  
+#Tutorial_Party1,Монстрiв можна розмiщувати, перетягуючи їх у слоти загону.  
+#Tutorial_Party2,Слоти загону можна розмiщувати на барикадi, перетягуючи їх.  
+#Tutorial_Party3,Якщо розмiстити монстрiв безпосередньо на барикадi, загiн буде створено автоматично.  
+
+#MenuText,{0}  
+
+#MenuPlay,ГРАТИ  
+#MenuSave,ЗБЕРЕГТИ  
+#MenuLoad,ЗАВАНТАЖИТИ  
+#MenuSettings,НАЛАШТУВАННЯ  
+#MenuCredits,АВТОРИ  
+#MenuExit,ВИЙТИ  
+#MenuQuit,ЗАВЕРШИТИ  
+#MenuTutorial,НАВЧАННЯ  
+#MenuResume,ПРОДОВЖИТИ  
+#MenuReturn,ПОВЕРНУТИСЯ  
+
+#MenuLanguage,МОВА  
+#MenuGraphic,ГРАФiКА  
+#MenuSound,ЗВУК  
+#MenuHotkey,ГАРЯЧi КЛАВiШi  
+#MenuGamePlay,iГРОВИЙ ПРОЦЕС  
+
+#MenuButtonSave,ЗБЕРЕГТИ  
+#MenuButtonLoad,ЗАВАНТАЖИТИ  
+#MenuButtonDelete,ВИДАЛИТИ  
+#MenuButtonFolder,ВiДКРИТИ ПАПКУ  
+
+#MenuIndex,{0}  
+#MenuSaveTime,{0}  
+#MenuVersion,ВЕРСiЯ: {0}  
+#MenuPage,СТОРiНКА {0} / {1}  
+
+#MenuOn,УВiМК.  
+#MenuOff,ВИМК.  
+
+#MenuHotkey0,Вгору  
+#MenuHotkey1,Лiворуч  
+#MenuHotkey2,Вниз  
+#MenuHotkey3,Праворуч  
+#MenuHotkey4,Прискорення  
+#MenuHotkey5,Показати рентген  
+#MenuHotkey6,Показати грудне молоко  
+#MenuHotkey7,Перезавантажити мову  
+
+#MenuGgraphic0,Повний екран  
+#MenuGgraphic1,Mipmap  
+#MenuGgraphic1Info,Покращує продуктивнiсть. Може спричиняти смуги на зображеннях. (Потрiбне перезавантаження)  
+#MenuGgraphic2,Стиснення текстур  
+#MenuGgraphic2Info,Зберiгає пам'ять. Якiсть зображення може знизитися. (Потрiбне перезавантаження)  
+#MenuGamePlay0,Швидкiсть руху екрана  
+
+#MenuHotkeyInfo,НАТИСНiТЬ КЛАВiШУ  
+#MenuGraphicInfo,Потрiбне перезавантаження  
+
+#MenuVolume0,Загальна гучнiсть  
+#MenuVolume1,Гучнiсть фону  
+#MenuVolume2,Гучнiсть ефектiв  
+#MenuVolume3,Гучнiсть голосу  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
